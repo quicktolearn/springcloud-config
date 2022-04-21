@@ -1,1 +1,4 @@
-
+server:
+  port: 3344
+config:
+  xml: hahaha config-dev.yml
